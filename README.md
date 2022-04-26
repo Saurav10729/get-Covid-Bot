@@ -99,11 +99,13 @@ embed2.add_field(name="**Tests Per One Million**", value=testsPerOneMillion, inl
 You can look through the covid.py file to understand the code. Also check out the bot.py file to see how the bot is configured to the discord bot you just created.
 
 ## To launch the bot on your server
-First, run the bot.py file on your computer. Then, go to the Discord Developer Portal and select the earlier application. Click oAuth2 > Url Generator. Generate a URL and copy it onto your browser. Now you can add bot onto your server. To use the bot type +covid (country-name)
+First, run the bot.py file on your computer. Then, go to the Discord Developer Portal and select the earlier application. Click oAuth2 > Url Generator. Generate a URL and copy it onto your browser. Now you can add bot onto your server. 
+
+To use the bot type:
 ```
-+covid Nepal
++covid Country-name
 ```
-The Result should look something like this:<br><br>
+The Result for **+covid Nepal** should look something like this:<br><br>
 ![My Image](Images/bot_ss.png)
 
 ## Hosting
