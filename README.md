@@ -11,6 +11,7 @@ Discord bot using Discord.py to provide updated Covid-19 information
 - [Pulling Data from API](#pulling-data-from-api)
 - [Embeding Covid-19 Data into Discord Bot](#embeding-covid-19-data-into-discord-bot)
 - [To launch the bot on your server](#to-launch-the-bot-on-your-server)
+- [Hosting](#hosting)
 
 ## Requirements
 
