@@ -103,3 +103,6 @@ First, click on your bot in the Discord Developer Portal. Select oAuth2 > Url Ge
 ```
 The Result should look something like this:<br><br>
 ![My Image](Images/bot_ss1.png)
+
+## Hosting
+Currently, I haven't hosted it on any server yet. This was just a fun project i wanted to try out.
