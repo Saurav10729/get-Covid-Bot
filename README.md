@@ -80,7 +80,8 @@ testsPerOneMillion = json_stats["testsPerOneMillion"]
 ## Embeding Covid-19 Data into Discord Bot 
 ```python
 embed2 = discord.Embed(title=f"**COVID-19 Status Of {country}**!", 
-description="This Information Isn't Live Always, Hence It May Not Be Accurate!", colour=0x0000ff, timestamp=ctx.message.created_at)
+description="This Information Isn't Live Always, Hence It May Not Be Accurate!", 
+colour=0x0000ff, timestamp=ctx.message.created_at)
 
 embed2.add_field(name="**Total Cases**", value=totalCases, inline=True)
 embed2.add_field(name="**Today Cases**", value=todayCases, inline=True)
