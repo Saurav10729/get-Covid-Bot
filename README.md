@@ -15,8 +15,9 @@ Discord bot using Discord.py to provide updated Covid-19 information
 ## Requirements
 
 ### Create a Discord bot- Discord Developer Portal 
-You will require a Discord account. Then go to [Discord Developer Portal](https://discord.com/developers/docs/intro) and create a new application. fill the required details. 
-![My Image](\Images\developer_portal1.png)
+You will require a Discord account. Then go to [Discord Developer Portal](https://discord.com/developers/docs/intro) and create a new application. fill the required details. <br>
+<br>
+![My Image](Images/developer_portal1.png)
 
 After this go to the 'bot' option and create the bot. Check all the permissions needed. Also make sure to enable all the Intent options as well.
 Copy the bot TOKEN and use it as shown in bot.py to run the bot.
@@ -100,5 +101,5 @@ First, click on your bot in the Discord Developer Portal. Select oAuth2 > Url Ge
 ```
 +covid Nepal
 ```
-The Result should look something like this:
-![My Image](\Images\bot_ss1.png)
+The Result should look something like this:<br><br>
+![My Image](Images/bot_ss1.png)
