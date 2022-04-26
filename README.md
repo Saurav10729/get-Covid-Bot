@@ -1,4 +1,4 @@
-# get=Covid-Bot
+# get-Covid-Bot
 Discord bot using Discord.py to provide updated Covid-19 information
 
 
