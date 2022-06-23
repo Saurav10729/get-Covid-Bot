@@ -109,4 +109,4 @@ The Result for **+covid Nepal** should look something like this:<br><br>
 ![My Image](Images/bot_ss.png)
 
 ## Hosting
-Currently, I haven't hosted it on any server yet. This was just a fun project i wanted to try out.
+Currently, I haven't hosted it on any server yet. This was just a fun project i stumbled on youtube and wanted to try out.
